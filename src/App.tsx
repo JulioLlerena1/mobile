@@ -49,6 +49,7 @@ setupIonicReact();
 
 const App: React.FC = () => (
   <IonApp>
+    
     <IonReactRouter>
       <IonTabs>
         <IonRouterOutlet>
